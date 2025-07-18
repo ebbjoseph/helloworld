@@ -1,0 +1,1 @@
+This is my first guide file inside a folder
